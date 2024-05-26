@@ -10,10 +10,10 @@ A simple project that generates co-ordinates of the rectangle and allows user to
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/rectangle-point-checker.git
+   git clone https://github.com/Spandana-M-Patil/Rectangle-Point-Checker.git
 2. Navigate to the project directory
    ```bash
-   cd rectangle-point-checker
+   cd Rectangle-Point-Checker
 ### Usage
 1. Run the script
    ```bash

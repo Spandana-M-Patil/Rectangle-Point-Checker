@@ -17,7 +17,7 @@ A simple project that generates co-ordinates of the rectangle and allows user to
 ### Usage
 1. Run the script
    ```bash
-   GamingRectangle
+   python GamingRectangle.py
 2.Enter the X and Y coordinates when prompted to check if the point lies within the generated rectangle.
 3.Enter your guess for the area of the rectangle when prompted.
 ### Example
